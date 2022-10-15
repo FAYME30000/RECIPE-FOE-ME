@@ -1,2 +1,2 @@
-# RECIPE-FOE-ME
+# RECIPE-FOr-ME
 Recipe for stew
